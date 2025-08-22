@@ -21,5 +21,10 @@ public class ControllerPing {
     public String version() {
         return "Versão: " + version;
     }
+    @GetMapping("/info")
+    public String info() {
+        return "Versão: " + version;
+    }
+
 
 }
