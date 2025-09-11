@@ -65,6 +65,16 @@ springdoc.swagger-ui.disable-swagger-default-url=true
 mvn spring-boot:run -Dspring-boot.run.profiles=dev
 ```
 
+-  *Instruções* **Docker Compose**
+
+    -  https://devhints.io/docker-compose
+
+```
+docker compose up
+docker compose up db
+docker compose stop
+```
+
 ### Documentação da API (Swagger)
 - http://localhost:8080/swagger-ui.html
 
