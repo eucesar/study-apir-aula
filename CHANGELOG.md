@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/acnaweb/study-apir/compare/v1.1.0...v1.2.0) (2025-10-10)
+
+
+### Features
+
+* change return pong ([ea3a7aa](https://github.com/acnaweb/study-apir/commit/ea3a7aadbfc29407051eb321cdf42e6cb424655b))
+
 ## [1.1.0](https://github.com/acnaweb/study-apir/compare/v1.0.0...v1.1.0) (2025-10-10)
 
 
