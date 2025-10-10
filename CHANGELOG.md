@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.1.0](https://github.com/acnaweb/study-apir/compare/v1.0.0...v1.1.0) (2025-10-10)
+
+
+### Features
+
+* add pongx ([6bad7d9](https://github.com/acnaweb/study-apir/commit/6bad7d91127a07c6b4c879a9b755875a5a2459fb))
+* update pongx2 ([8eee65b](https://github.com/acnaweb/study-apir/commit/8eee65bfe33a06425128074407692b9d32356a91))
+
+
+### Bug Fixes
+
+* remove endpoint info ([246fc96](https://github.com/acnaweb/study-apir/commit/246fc96a54749505218b50c02acf9d14987acccd))
+
 ## 1.0.0 (2025-10-10)
 
 
