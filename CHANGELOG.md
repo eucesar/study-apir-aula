@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/acnaweb/study-apir/compare/v1.2.0...v1.2.1) (2025-10-10)
+
+
+### Bug Fixes
+
+* uppercase ([815ce6d](https://github.com/acnaweb/study-apir/commit/815ce6d5d1023ed33a8f483eb7d47480d9ee4a91))
+
 ## [1.2.0](https://github.com/acnaweb/study-apir/compare/v1.1.0...v1.2.0) (2025-10-10)
 
 
