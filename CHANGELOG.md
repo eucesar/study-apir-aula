@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.3.0](https://github.com/acnaweb/study-apir/compare/v1.2.1...v1.3.0) (2025-10-10)
+
+
+### Features
+
+* setup ci ([c427284](https://github.com/acnaweb/study-apir/commit/c427284b326541ac49e0e4a2a8cbad5945ae0a82))
+
+
+### Documentation
+
+* rename title ([c9c6554](https://github.com/acnaweb/study-apir/commit/c9c65547b8b54abdc72083f78c5c59a1c844ba72))
+
 ## [1.2.1](https://github.com/acnaweb/study-apir/compare/v1.2.0...v1.2.1) (2025-10-10)
 
 
