@@ -20,4 +20,4 @@ jobs:
                 uses: docker/build-push-action@v6
                 with:
                     push: true
-                    tags: acnaweb/study-apir:latest
+                    tags: eucesar/study-apir:latest
